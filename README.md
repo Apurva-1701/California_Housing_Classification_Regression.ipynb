@@ -13,4 +13,4 @@ This repository contains code for predicting median house values and classifying
 ## Results:
 
 - ** Regression Task: Achieved MSE of 0.7000 and R² score of 0.4658.
-- **Classification Task: Accuracy of 83.07%, Precision of 83.67%, Recall of 81.91%, and F1-score of
+- **Classification Task: Accuracy of 83.07%, Precision of 83.67%, Recall of 81.91%, and F1-score of 82.78%.
